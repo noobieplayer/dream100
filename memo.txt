@@ -1,0 +1,5 @@
+# サーバー起動手順
+1. "C:\...\dream100\backend" に移動
+2. "venv\Scripts\activate" を実行し仮想環境を適用
+3. "cd my_django_project" で移動
+4. "python manage.py runserver" でサーバー起動
